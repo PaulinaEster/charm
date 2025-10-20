@@ -10,6 +10,17 @@
 
 #define BUF 255
 
+char* bitmap_to_hex(char* bitmap, int len) {
+    // Cada byte vira dois caracteres + '\0'
+    char* str = (char*) malloc(len * sizeof(char));
+    if (!str) return NULL;
+
+    for (size_t i = 0; i < len; i++)
+        sprintf(str + i * 2, "%02X", bitmap[i]);
+
+    return str;
+}
+
 int main (int argc, char **argv)
 {
     int OLDNPROCS, NEWNPROCS;
@@ -65,7 +76,10 @@ int main (int argc, char **argv)
 
     printf("Waiting for reply...\n" );
     CcsRecvResponse(&server, cmdLen, bitmap , 180);
-    printf("Reply received.\n");
 
+    printf("Reply received.\n");
+    char* str = bitmap_to_hex(bitmap, cmdLen);
+    printf("Hex: %s\n", str);
+    free(str);
     return 0;
 }
