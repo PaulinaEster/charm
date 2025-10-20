@@ -388,3 +388,6 @@ Evan Ramos, Zane Fink, Pathikrit Ghosh, Maya Taylor, Aditya Bhosale,
 Mathew Jacob, Tom Vander Aa, Thomas Quinn, and Ritvik Rao.
 
 Copyright (C) 1989-2024 University of Illinois Board of Trustees
+
+
+./charmrun +p4 ./jacobi2d 200 20 +balancer GreedyLB ++nodelist ./mynodelistfile ++server 
