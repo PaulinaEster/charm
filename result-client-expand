@@ -1,0 +1,6 @@
+Restultado do comando sudo ./client node-1 36539 4 8:
+Connecting to server node-1 36539
+Connected to server
+Sending expand command.
+Waiting for reply...
+Reply received.

@@ -1,0 +1,1225 @@
+Charmrun> scalable start enabled. 
+ccs: 2
+ccs: Server IP = 128.110.96.58, Server port = 36539 $
+Charmrun> started all node programs in 1.207 seconds.
+Charm++> Running in non-SMP mode: 4 processes (PEs)
+Converse/Charm++ Commit ID: 2ff9e1559
+Charm++ built without optimization.
+Do not use for performance benchmarking (build with --with-production to do so).
+Charm++ built with internal error checking enabled.
+Do not use for performance benchmarking (build without --enable-error-checking to do so).
+Isomalloc> Synchronized global address space.
+Charm++> scheduler running in netpoll mode.
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> Running on 2 hosts (2 sockets x 8 cores x 2 PUs = 32-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+[0] TreeLB in LEGACY MODE support
+[0] TreeLB: Using PE_Root tree with: Greedy 
+Running Jacobi on 4 processors with (100,100) elements
+PROC#0 Calling LBD --------------------- iteration=0
+PROC#2 started --------------------- iteration=0
+starting new iteration; iteration 1 time: 13.719576 time/itr::13.719576
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=1
+starting new iteration; iteration 2 time: 16.762513 time/itr::8.381256
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=2
+starting new iteration; iteration 3 time: 19.211906 time/itr::6.403969
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=3
+starting new iteration; iteration 4 time: 21.665920 time/itr::5.416480
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=4
+starting new iteration; iteration 5 time: 24.128872 time/itr::4.825774
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=5
+starting new iteration; iteration 6 time: 26.596398 time/itr::4.432733
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=6
+starting new iteration; iteration 7 time: 29.070881 time/itr::4.152983
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=7
+starting new iteration; iteration 8 time: 31.543919 time/itr::3.942990
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=8
+starting new iteration; iteration 9 time: 34.029338 time/itr::3.781038
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=9
+starting new iteration; iteration 10 time: 36.516151 time/itr::3.651615
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=10
+starting new iteration; iteration 11 time: 39.012636 time/itr::3.546603
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=11
+starting new iteration; iteration 12 time: 41.510519 time/itr::3.459210
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=12
+starting new iteration; iteration 13 time: 44.017679 time/itr::3.385975
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=13
+starting new iteration; iteration 14 time: 46.530536 time/itr::3.323610
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=14
+starting new iteration; iteration 15 time: 49.049971 time/itr::3.269998
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=15
+starting new iteration; iteration 16 time: 51.573086 time/itr::3.223318
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=16
+starting new iteration; iteration 17 time: 54.096211 time/itr::3.182130
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=17
+starting new iteration; iteration 18 time: 56.630136 time/itr::3.146119
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=18
+starting new iteration; iteration 19 time: 59.169251 time/itr::3.114171
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=19
+starting new iteration; iteration 20 time: 61.713443 time/itr::3.085672
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=20
+starting new iteration; iteration 21 time: 64.264726 time/itr::3.060225
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=21
+starting new iteration; iteration 22 time: 66.815587 time/itr::3.037072
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=22
+starting new iteration; iteration 23 time: 69.376128 time/itr::3.016353
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=23
+starting new iteration; iteration 24 time: 71.939134 time/itr::2.997464
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=24
+starting new iteration; iteration 25 time: 74.507627 time/itr::2.980305
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=25
+starting new iteration; iteration 26 time: 77.080610 time/itr::2.964639
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=26
+starting new iteration; iteration 27 time: 79.658104 time/itr::2.950300
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=27
+starting new iteration; iteration 28 time: 82.234342 time/itr::2.936941
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=28
+starting new iteration; iteration 29 time: 84.821435 time/itr::2.924877
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=29
+starting new iteration; iteration 30 time: 87.412993 time/itr::2.913766
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=30
+starting new iteration; iteration 31 time: 90.009053 time/itr::2.903518
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=31
+starting new iteration; iteration 32 time: 92.608873 time/itr::2.894027
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=32
+starting new iteration; iteration 33 time: 95.213341 time/itr::2.885253
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=33
+starting new iteration; iteration 34 time: 97.819063 time/itr::2.877031
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=34
+starting new iteration; iteration 35 time: 100.432851 time/itr::2.869510
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=35
+starting new iteration; iteration 36 time: 103.049586 time/itr::2.862488
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=36
+starting new iteration; iteration 37 time: 105.670465 time/itr::2.855959
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=37
+starting new iteration; iteration 38 time: 108.295854 time/itr::2.849891
+Memory Usage: 7446208 bytes 
+PROC#2 started --------------------- iteration=38
+starting new iteration; iteration 39 time: 110.926537 time/itr::2.844270
+Memory Usage: 7446320 bytes 
+PROC#2 started --------------------- iteration=39
+starting new iteration; iteration 40 time: 113.558263 time/itr::2.838957
+Memory Usage: 7446432 bytes 
+PROC#2 started --------------------- iteration=40
+starting new iteration; iteration 41 time: 116.193977 time/itr::2.833999
+Memory Usage: 7446544 bytes 
+PROC#2 started --------------------- iteration=41
+starting new iteration; iteration 42 time: 118.833257 time/itr::2.829363
+Memory Usage: 7446656 bytes 
+PROC#2 started --------------------- iteration=42
+starting new iteration; iteration 43 time: 121.471485 time/itr::2.824918
+Memory Usage: 7445312 bytes 
+PROC#2 started --------------------- iteration=43
+starting new iteration; iteration 44 time: 124.119107 time/itr::2.820889
+Memory Usage: 7445312 bytes 
+PROC#2 started --------------------- iteration=44
+starting new iteration; iteration 45 time: 126.770912 time/itr::2.817131
+Memory Usage: 7445312 bytes 
+PROC#2 started --------------------- iteration=45
+starting new iteration; iteration 46 time: 129.427380 time/itr::2.813639
+Memory Usage: 7445312 bytes 
+PROC#2 started --------------------- iteration=46
+starting new iteration; iteration 47 time: 132.086586 time/itr::2.810353
+Memory Usage: 7445312 bytes 
+PROC#2 started --------------------- iteration=47
+starting new iteration; iteration 48 time: 134.750041 time/itr::2.807293
+Memory Usage: 7445312 bytes 
+PROC#2 started --------------------- iteration=48
+starting new iteration; iteration 49 time: 137.415709 time/itr::2.804402
+Memory Usage: 7445312 bytes 
+PROC#2 started --------------------- iteration=49
+starting new iteration; iteration 50 time: 140.085051 time/itr::2.801701
+Memory Usage: 7445424 bytes 
+PROC#2 Calling LBD --------------------- iteration=50
+PROC#0 started --------------------- iteration=50
+starting new iteration; iteration 51 time: 152.074964 time/itr::2.981862
+Memory Usage: 869514096 bytes 
+PROC#0 started --------------------- iteration=51
+starting new iteration; iteration 52 time: 153.084078 time/itr::2.943925
+Memory Usage: 873022368 bytes 
+PROC#0 started --------------------- iteration=52
+starting new iteration; iteration 53 time: 154.014024 time/itr::2.905925
+Memory Usage: 873022480 bytes 
+PROC#0 started --------------------- iteration=53
+starting new iteration; iteration 54 time: 154.947012 time/itr::2.869389
+Memory Usage: 873022592 bytes 
+PROC#0 started --------------------- iteration=54
+starting new iteration; iteration 55 time: 155.881219 time/itr::2.834204
+Memory Usage: 873022704 bytes 
+PROC#0 started --------------------- iteration=55
+starting new iteration; iteration 56 time: 156.816517 time/itr::2.800295
+Memory Usage: 873022816 bytes 
+PROC#0 started --------------------- iteration=56
+starting new iteration; iteration 57 time: 157.751382 time/itr::2.767568
+Memory Usage: 873022928 bytes 
+PROC#0 started --------------------- iteration=57
+starting new iteration; iteration 58 time: 158.690092 time/itr::2.736036
+Memory Usage: 873023040 bytes 
+PROC#0 started --------------------- iteration=58
+starting new iteration; iteration 59 time: 159.628937 time/itr::2.705575
+Memory Usage: 873023152 bytes 
+PROC#0 started --------------------- iteration=59
+starting new iteration; iteration 60 time: 160.566363 time/itr::2.676106
+Memory Usage: 873023264 bytes 
+PROC#0 started --------------------- iteration=60
+starting new iteration; iteration 61 time: 161.507764 time/itr::2.647668
+Memory Usage: 873023376 bytes 
+PROC#0 started --------------------- iteration=61
+starting new iteration; iteration 62 time: 162.449775 time/itr::2.620158
+Memory Usage: 873023488 bytes 
+PROC#0 started --------------------- iteration=62
+starting new iteration; iteration 63 time: 163.388969 time/itr::2.593476
+Memory Usage: 873023600 bytes 
+PROC#0 started --------------------- iteration=63
+starting new iteration; iteration 64 time: 164.332464 time/itr::2.567695
+Memory Usage: 873023712 bytes 
+PROC#0 started --------------------- iteration=64
+starting new iteration; iteration 65 time: 165.275861 time/itr::2.542706
+Memory Usage: 873023824 bytes 
+PROC#0 started --------------------- iteration=65
+starting new iteration; iteration 66 time: 166.221887 time/itr::2.518513
+Memory Usage: 873023936 bytes 
+PROC#0 started --------------------- iteration=66
+starting new iteration; iteration 67 time: 167.165706 time/itr::2.495011
+Memory Usage: 873024048 bytes 
+PROC#0 started --------------------- iteration=67
+starting new iteration; iteration 68 time: 168.112676 time/itr::2.472245
+Memory Usage: 873024160 bytes 
+PROC#0 started --------------------- iteration=68
+starting new iteration; iteration 69 time: 169.060045 time/itr::2.450146
+Memory Usage: 873024272 bytes 
+PROC#0 started --------------------- iteration=69
+starting new iteration; iteration 70 time: 170.005081 time/itr::2.428644
+Memory Usage: 873024384 bytes 
+PROC#0 started --------------------- iteration=70
+starting new iteration; iteration 71 time: 170.954211 time/itr::2.407806
+Memory Usage: 873024496 bytes 
+PROC#0 started --------------------- iteration=71
+starting new iteration; iteration 72 time: 171.902526 time/itr::2.387535
+Memory Usage: 873024608 bytes 
+PROC#0 started --------------------- iteration=72
+starting new iteration; iteration 73 time: 172.848351 time/itr::2.367786
+Memory Usage: 873024720 bytes 
+PROC#0 started --------------------- iteration=73
+starting new iteration; iteration 74 time: 173.798437 time/itr::2.348628
+Memory Usage: 873024832 bytes 
+PROC#0 started --------------------- iteration=74
+starting new iteration; iteration 75 time: 174.748419 time/itr::2.329979
+Memory Usage: 873024944 bytes 
+PROC#0 started --------------------- iteration=75
+starting new iteration; iteration 76 time: 175.699705 time/itr::2.311838
+Memory Usage: 873025056 bytes 
+PROC#0 started --------------------- iteration=76
+starting new iteration; iteration 77 time: 176.648781 time/itr::2.294140
+Memory Usage: 873025168 bytes 
+PROC#0 started --------------------- iteration=77
+starting new iteration; iteration 78 time: 177.600692 time/itr::2.276932
+Memory Usage: 873025280 bytes 
+PROC#0 started --------------------- iteration=78
+starting new iteration; iteration 79 time: 178.554241 time/itr::2.260180
+Memory Usage: 873025392 bytes 
+PROC#0 started --------------------- iteration=79
+starting new iteration; iteration 80 time: 179.503576 time/itr::2.243795
+Memory Usage: 873025504 bytes 
+PROC#0 started --------------------- iteration=80
+starting new iteration; iteration 81 time: 180.455489 time/itr::2.227846
+Memory Usage: 873025616 bytes 
+PROC#0 started --------------------- iteration=81
+starting new iteration; iteration 82 time: 181.409263 time/itr::2.212308
+Memory Usage: 873025728 bytes 
+PROC#0 started --------------------- iteration=82
+starting new iteration; iteration 83 time: 182.362864 time/itr::2.197143
+Memory Usage: 873025840 bytes 
+PROC#0 started --------------------- iteration=83
+starting new iteration; iteration 84 time: 183.313822 time/itr::2.182307
+Memory Usage: 873025952 bytes 
+PROC#0 started --------------------- iteration=84
+starting new iteration; iteration 85 time: 184.266731 time/itr::2.167844
+Memory Usage: 873024048 bytes 
+PROC#0 started --------------------- iteration=85
+starting new iteration; iteration 86 time: 185.222679 time/itr::2.153752
+Memory Usage: 873024048 bytes 
+PROC#0 started --------------------- iteration=86
+starting new iteration; iteration 87 time: 186.174830 time/itr::2.139941
+Memory Usage: 873024048 bytes 
+PROC#0 started --------------------- iteration=87
+starting new iteration; iteration 88 time: 187.129987 time/itr::2.126477
+Memory Usage: 873024048 bytes 
+PROC#0 started --------------------- iteration=88
+starting new iteration; iteration 89 time: 188.084847 time/itr::2.113313
+Memory Usage: 873024048 bytes 
+PROC#0 started --------------------- iteration=89
+starting new iteration; iteration 90 time: 189.040479 time/itr::2.100450
+Memory Usage: 873024048 bytes 
+PROC#0 started --------------------- iteration=90
+starting new iteration; iteration 91 time: 189.993138 time/itr::2.087837
+Memory Usage: 873024720 bytes 
+PROC#0 started --------------------- iteration=91
+starting new iteration; iteration 92 time: 190.950537 time/itr::2.075549
+Memory Usage: 873024720 bytes 
+PROC#0 started --------------------- iteration=92
+starting new iteration; iteration 93 time: 191.906504 time/itr::2.063511
+Memory Usage: 873024720 bytes 
+PROC#0 started --------------------- iteration=93
+starting new iteration; iteration 94 time: 192.859756 time/itr::2.051700
+Memory Usage: 873024720 bytes 
+PROC#0 started --------------------- iteration=94
+starting new iteration; iteration 95 time: 193.815808 time/itr::2.040166
+Memory Usage: 873024720 bytes 
+PROC#0 started --------------------- iteration=95
+starting new iteration; iteration 96 time: 194.771970 time/itr::2.028875
+Memory Usage: 873024720 bytes 
+PROC#0 started --------------------- iteration=96
+starting new iteration; iteration 97 time: 195.727485 time/itr::2.017809
+Memory Usage: 873024944 bytes 
+PROC#0 started --------------------- iteration=97
+starting new iteration; iteration 98 time: 196.680858 time/itr::2.006948
+Memory Usage: 873024944 bytes 
+PROC#0 started --------------------- iteration=98
+starting new iteration; iteration 99 time: 197.638532 time/itr::1.996349
+Memory Usage: 873025056 bytes 
+PROC#0 started --------------------- iteration=99
+starting new iteration; iteration 100 time: 198.594992 time/itr::1.985950
+Memory Usage: 873025168 bytes 
+PROC#0 Calling LBD --------------------- iteration=100
+PROC#0 started --------------------- iteration=100
+starting new iteration; iteration 101 time: 208.155243 time/itr::2.060943
+Memory Usage: 892762368 bytes 
+PROC#0 started --------------------- iteration=101
+starting new iteration; iteration 102 time: 209.250365 time/itr::2.051474
+Memory Usage: 896331904 bytes 
+PROC#0 started --------------------- iteration=102
+starting new iteration; iteration 103 time: 210.256398 time/itr::2.041324
+Memory Usage: 896331904 bytes 
+PROC#0 started --------------------- iteration=103
+starting new iteration; iteration 104 time: 211.260302 time/itr::2.031349
+Memory Usage: 896331904 bytes 
+PROC#0 started --------------------- iteration=104
+starting new iteration; iteration 105 time: 212.259051 time/itr::2.021515
+Memory Usage: 896332576 bytes 
+PROC#0 started --------------------- iteration=105
+starting new iteration; iteration 106 time: 213.262513 time/itr::2.011910
+Memory Usage: 896332576 bytes 
+PROC#0 started --------------------- iteration=106
+starting new iteration; iteration 107 time: 214.264594 time/itr::2.002473
+Memory Usage: 896332576 bytes 
+PROC#0 started --------------------- iteration=107
+starting new iteration; iteration 108 time: 215.262843 time/itr::1.993174
+Memory Usage: 896332576 bytes 
+PROC#0 started --------------------- iteration=108
+starting new iteration; iteration 109 time: 216.264897 time/itr::1.984082
+Memory Usage: 896332576 bytes 
+PROC#0 started --------------------- iteration=109
+starting new iteration; iteration 110 time: 217.268723 time/itr::1.975170
+Memory Usage: 896332576 bytes 
+PROC#0 started --------------------- iteration=110
+starting new iteration; iteration 111 time: 218.265933 time/itr::1.966360
+Memory Usage: 896333248 bytes 
+PROC#0 started --------------------- iteration=111
+starting new iteration; iteration 112 time: 219.279928 time/itr::1.957856
+Memory Usage: 896333248 bytes 
+PROC#0 started --------------------- iteration=112
+starting new iteration; iteration 113 time: 220.292783 time/itr::1.949494
+Memory Usage: 896333248 bytes 
+PROC#0 started --------------------- iteration=113
+starting new iteration; iteration 114 time: 221.290288 time/itr::1.941143
+Memory Usage: 896333248 bytes 
+PROC#0 started --------------------- iteration=114
+starting new iteration; iteration 115 time: 222.294300 time/itr::1.932994
+Memory Usage: 896333248 bytes 
+PROC#0 started --------------------- iteration=115
+starting new iteration; iteration 116 time: 223.298010 time/itr::1.924983
+Memory Usage: 896333248 bytes 
+PROC#0 started --------------------- iteration=116
+starting new iteration; iteration 117 time: 224.296086 time/itr::1.917061
+Memory Usage: 896333920 bytes 
+PROC#0 started --------------------- iteration=117
+starting new iteration; iteration 118 time: 225.297935 time/itr::1.909305
+Memory Usage: 896333920 bytes 
+PROC#0 started --------------------- iteration=118
+starting new iteration; iteration 119 time: 226.302214 time/itr::1.901699
+Memory Usage: 896333920 bytes 
+PROC#0 started --------------------- iteration=119
+starting new iteration; iteration 120 time: 227.302529 time/itr::1.894188
+Memory Usage: 896333920 bytes 
+PROC#0 started --------------------- iteration=120
+starting new iteration; iteration 121 time: 228.305902 time/itr::1.886826
+Memory Usage: 896333920 bytes 
+PROC#0 started --------------------- iteration=121
+starting new iteration; iteration 122 time: 229.309746 time/itr::1.879588
+Memory Usage: 896333920 bytes 
+PROC#0 started --------------------- iteration=122
+starting new iteration; iteration 123 time: 230.314502 time/itr::1.872476
+Memory Usage: 896334592 bytes 
+PROC#0 started --------------------- iteration=123
+starting new iteration; iteration 124 time: 231.313289 time/itr::1.865430
+Memory Usage: 896334592 bytes 
+PROC#0 started --------------------- iteration=124
+starting new iteration; iteration 125 time: 232.317157 time/itr::1.858537
+Memory Usage: 896334592 bytes 
+PROC#0 started --------------------- iteration=125
+starting new iteration; iteration 126 time: 233.321541 time/itr::1.851758
+Memory Usage: 896334592 bytes 
+PROC#0 started --------------------- iteration=126
+starting new iteration; iteration 127 time: 234.321079 time/itr::1.845048
+Memory Usage: 896334592 bytes 
+PROC#0 started --------------------- iteration=127
+starting new iteration; iteration 128 time: 235.324134 time/itr::1.838470
+Memory Usage: 896334592 bytes 
+PROC#0 started --------------------- iteration=128
+starting new iteration; iteration 129 time: 236.326315 time/itr::1.831987
+Memory Usage: 896335264 bytes 
+PROC#0 started --------------------- iteration=129
+starting new iteration; iteration 130 time: 237.324200 time/itr::1.825571
+Memory Usage: 896335264 bytes 
+PROC#0 started --------------------- iteration=130
+starting new iteration; iteration 131 time: 238.327790 time/itr::1.819296
+Memory Usage: 896335264 bytes 
+PROC#0 started --------------------- iteration=131
+starting new iteration; iteration 132 time: 239.331468 time/itr::1.813117
+Memory Usage: 896335264 bytes 
+PROC#0 started --------------------- iteration=132
+starting new iteration; iteration 133 time: 240.330756 time/itr::1.806998
+Memory Usage: 896335264 bytes 
+PROC#0 started --------------------- iteration=133
+starting new iteration; iteration 134 time: 241.334683 time/itr::1.801005
+Memory Usage: 896335264 bytes 
+PROC#0 started --------------------- iteration=134
+starting new iteration; iteration 135 time: 242.338554 time/itr::1.795100
+Memory Usage: 896335936 bytes 
+PROC#0 started --------------------- iteration=135
+starting new iteration; iteration 136 time: 243.337867 time/itr::1.789249
+Memory Usage: 896335936 bytes 
+PROC#0 started --------------------- iteration=136
+starting new iteration; iteration 137 time: 244.342198 time/itr::1.783520
+Memory Usage: 896335936 bytes 
+PROC#0 started --------------------- iteration=137
+starting new iteration; iteration 138 time: 245.345044 time/itr::1.777863
+Memory Usage: 896335936 bytes 
+PROC#0 started --------------------- iteration=138
+starting new iteration; iteration 139 time: 246.344996 time/itr::1.772266
+Memory Usage: 896335936 bytes 
+PROC#0 started --------------------- iteration=139
+starting new iteration; iteration 140 time: 247.348504 time/itr::1.766775
+Memory Usage: 896335936 bytes 
+PROC#0 started --------------------- iteration=140
+starting new iteration; iteration 141 time: 248.353295 time/itr::1.761371
+Memory Usage: 896336608 bytes 
+PROC#0 started --------------------- iteration=141
+starting new iteration; iteration 142 time: 249.353661 time/itr::1.756012
+Memory Usage: 896332016 bytes 
+PROC#0 started --------------------- iteration=142
+starting new iteration; iteration 143 time: 250.358319 time/itr::1.750757
+Memory Usage: 896332016 bytes 
+PROC#0 started --------------------- iteration=143
+starting new iteration; iteration 144 time: 251.363300 time/itr::1.745578
+Memory Usage: 896332016 bytes 
+PROC#0 started --------------------- iteration=144
+starting new iteration; iteration 145 time: 252.369581 time/itr::1.740480
+Memory Usage: 896332016 bytes 
+PROC#0 started --------------------- iteration=145
+starting new iteration; iteration 146 time: 253.369742 time/itr::1.735409
+Memory Usage: 896332016 bytes 
+PROC#0 started --------------------- iteration=146
+starting new iteration; iteration 147 time: 254.375926 time/itr::1.730448
+Memory Usage: 896332016 bytes 
+PROC#0 started --------------------- iteration=147
+starting new iteration; iteration 148 time: 255.380075 time/itr::1.725541
+Memory Usage: 896332688 bytes 
+PROC#0 started --------------------- iteration=148
+starting new iteration; iteration 149 time: 256.378673 time/itr::1.720662
+Memory Usage: 896332688 bytes 
+PROC#0 started --------------------- iteration=149
+starting new iteration; iteration 150 time: 257.382415 time/itr::1.715883
+Memory Usage: 896332688 bytes 
+PROC#0 Calling LBD --------------------- iteration=150
+PROC#3 started --------------------- iteration=150
+starting new iteration; iteration 151 time: 267.939824 time/itr::1.774436
+Memory Usage: 814798608 bytes 
+PROC#3 started --------------------- iteration=151
+starting new iteration; iteration 152 time: 268.924481 time/itr::1.769240
+Memory Usage: 818295280 bytes 
+PROC#3 started --------------------- iteration=152
+starting new iteration; iteration 153 time: 269.830537 time/itr::1.763598
+Memory Usage: 818295280 bytes 
+PROC#3 started --------------------- iteration=153
+starting new iteration; iteration 154 time: 270.742043 time/itr::1.758065
+Memory Usage: 818295392 bytes 
+PROC#3 started --------------------- iteration=154
+starting new iteration; iteration 155 time: 271.652750 time/itr::1.752598
+Memory Usage: 818295504 bytes 
+PROC#3 started --------------------- iteration=155
+starting new iteration; iteration 156 time: 272.559218 time/itr::1.747174
+Memory Usage: 818295616 bytes 
+PROC#3 started --------------------- iteration=156
+starting new iteration; iteration 157 time: 273.469753 time/itr::1.741846
+Memory Usage: 818295728 bytes 
+PROC#3 started --------------------- iteration=157
+starting new iteration; iteration 158 time: 274.380557 time/itr::1.736586
+Memory Usage: 818295840 bytes 
+PROC#3 started --------------------- iteration=158
+starting new iteration; iteration 159 time: 275.287639 time/itr::1.731369
+Memory Usage: 818295952 bytes 
+PROC#3 started --------------------- iteration=159
+starting new iteration; iteration 160 time: 276.199625 time/itr::1.726248
+Memory Usage: 818296064 bytes 
+PROC#3 started --------------------- iteration=160
+starting new iteration; iteration 161 time: 277.105250 time/itr::1.721151
+Memory Usage: 818296176 bytes 
+PROC#3 started --------------------- iteration=161
+starting new iteration; iteration 162 time: 278.015898 time/itr::1.716148
+Memory Usage: 818296288 bytes 
+PROC#3 started --------------------- iteration=162
+starting new iteration; iteration 163 time: 278.927472 time/itr::1.711211
+Memory Usage: 818296400 bytes 
+PROC#3 started --------------------- iteration=163
+starting new iteration; iteration 164 time: 279.833599 time/itr::1.706302
+Memory Usage: 818296512 bytes 
+PROC#3 started --------------------- iteration=164
+starting new iteration; iteration 165 time: 280.744698 time/itr::1.701483
+Memory Usage: 818296624 bytes 
+PROC#3 started --------------------- iteration=165
+starting new iteration; iteration 166 time: 281.650930 time/itr::1.696692
+Memory Usage: 818296736 bytes 
+PROC#3 started --------------------- iteration=166
+starting new iteration; iteration 167 time: 282.562046 time/itr::1.691988
+Memory Usage: 818296848 bytes 
+PROC#3 started --------------------- iteration=167
+starting new iteration; iteration 168 time: 283.473578 time/itr::1.687343
+Memory Usage: 818296960 bytes 
+PROC#3 started --------------------- iteration=168
+starting new iteration; iteration 169 time: 284.379289 time/itr::1.682718
+Memory Usage: 818297072 bytes 
+PROC#3 started --------------------- iteration=169
+starting new iteration; iteration 170 time: 285.290346 time/itr::1.678179
+Memory Usage: 818297184 bytes 
+PROC#3 started --------------------- iteration=170
+starting new iteration; iteration 171 time: 286.201783 time/itr::1.673695
+Memory Usage: 818297296 bytes 
+PROC#3 started --------------------- iteration=171
+starting new iteration; iteration 172 time: 287.107166 time/itr::1.669228
+Memory Usage: 818297408 bytes 
+PROC#3 started --------------------- iteration=172
+starting new iteration; iteration 173 time: 288.019281 time/itr::1.664851
+Memory Usage: 818297520 bytes 
+PROC#3 started --------------------- iteration=173
+starting new iteration; iteration 174 time: 288.926952 time/itr::1.660500
+Memory Usage: 818297632 bytes 
+PROC#3 started --------------------- iteration=174
+starting new iteration; iteration 175 time: 289.839553 time/itr::1.656226
+Memory Usage: 818297744 bytes 
+PROC#3 started --------------------- iteration=175
+starting new iteration; iteration 176 time: 290.751996 time/itr::1.652000
+Memory Usage: 818297856 bytes 
+PROC#3 started --------------------- iteration=176
+starting new iteration; iteration 177 time: 291.658133 time/itr::1.647786
+Memory Usage: 818297968 bytes 
+PROC#3 started --------------------- iteration=177
+starting new iteration; iteration 178 time: 292.569512 time/itr::1.643649
+Memory Usage: 818298080 bytes 
+PROC#3 started --------------------- iteration=178
+starting new iteration; iteration 179 time: 293.480766 time/itr::1.639557
+Memory Usage: 818298192 bytes 
+PROC#3 started --------------------- iteration=179
+starting new iteration; iteration 180 time: 294.387810 time/itr::1.635488
+Memory Usage: 818298304 bytes 
+PROC#3 started --------------------- iteration=180
+starting new iteration; iteration 181 time: 295.298619 time/itr::1.631484
+Memory Usage: 818298416 bytes 
+PROC#3 started --------------------- iteration=181
+starting new iteration; iteration 182 time: 296.204701 time/itr::1.627498
+Memory Usage: 818298528 bytes 
+PROC#3 started --------------------- iteration=182
+starting new iteration; iteration 183 time: 297.117413 time/itr::1.623592
+Memory Usage: 818298640 bytes 
+PROC#3 started --------------------- iteration=183
+starting new iteration; iteration 184 time: 298.028872 time/itr::1.619722
+Memory Usage: 818298752 bytes 
+PROC#3 started --------------------- iteration=184
+starting new iteration; iteration 185 time: 298.934670 time/itr::1.615863
+Memory Usage: 818298864 bytes 
+PROC#3 started --------------------- iteration=185
+starting new iteration; iteration 186 time: 299.847167 time/itr::1.612082
+Memory Usage: 818298976 bytes 
+PROC#3 started --------------------- iteration=186
+starting new iteration; iteration 187 time: 300.758447 time/itr::1.608334
+Memory Usage: 818299088 bytes 
+PROC#3 started --------------------- iteration=187
+starting new iteration; iteration 188 time: 301.665076 time/itr::1.604601
+Memory Usage: 818299200 bytes 
+PROC#3 started --------------------- iteration=188
+starting new iteration; iteration 189 time: 302.577004 time/itr::1.600937
+Memory Usage: 818299312 bytes 
+PROC#3 started --------------------- iteration=189
+starting new iteration; iteration 190 time: 303.482915 time/itr::1.597278
+Memory Usage: 818299424 bytes 
+PROC#3 started --------------------- iteration=190
+starting new iteration; iteration 191 time: 304.393937 time/itr::1.593686
+Memory Usage: 818299536 bytes 
+PROC#3 started --------------------- iteration=191
+starting new iteration; iteration 192 time: 305.305415 time/itr::1.590132
+Memory Usage: 818299648 bytes 
+PROC#3 started --------------------- iteration=192
+starting new iteration; iteration 193 time: 306.211849 time/itr::1.586590
+Memory Usage: 818299760 bytes 
+PROC#3 started --------------------- iteration=193
+starting new iteration; iteration 194 time: 307.123003 time/itr::1.583108
+Memory Usage: 818299872 bytes 
+PROC#3 started --------------------- iteration=194
+starting new iteration; iteration 195 time: 308.033872 time/itr::1.579661
+Memory Usage: 818299984 bytes 
+PROC#3 started --------------------- iteration=195
+starting new iteration; iteration 196 time: 308.946155 time/itr::1.576256
+Memory Usage: 818300096 bytes 
+PROC#3 started --------------------- iteration=196
+starting new iteration; iteration 197 time: 309.858259 time/itr::1.572885
+Memory Usage: 818300208 bytes 
+PROC#3 started --------------------- iteration=197
+starting new iteration; iteration 198 time: 310.769786 time/itr::1.569544
+Memory Usage: 818300320 bytes 
+PROC#3 started --------------------- iteration=198
+starting new iteration; iteration 199 time: 311.683667 time/itr::1.566250
+Memory Usage: 818300432 bytes 
+PROC#3 started --------------------- iteration=199
+starting new iteration; iteration 200 time: 312.596608 time/itr::1.562983
+Memory Usage: 818300544 bytes 
+PROC#3 Calling LBD --------------------- iteration=200
+PROC#1 started --------------------- iteration=200
+starting new iteration; iteration 201 time: 323.170244 time/itr::1.607812
+Memory Usage: 826560912 bytes 
+PROC#1 started --------------------- iteration=201
+starting new iteration; iteration 202 time: 324.179061 time/itr::1.604847
+Memory Usage: 830063760 bytes 
+PROC#1 started --------------------- iteration=202
+starting new iteration; iteration 203 time: 325.110356 time/itr::1.601529
+Memory Usage: 830063760 bytes 
+PROC#1 started --------------------- iteration=203
+starting new iteration; iteration 204 time: 326.041375 time/itr::1.598242
+Memory Usage: 830063760 bytes 
+PROC#1 started --------------------- iteration=204
+starting new iteration; iteration 205 time: 326.976488 time/itr::1.595007
+Memory Usage: 830064432 bytes 
+PROC#1 started --------------------- iteration=205
+starting new iteration; iteration 206 time: 327.907189 time/itr::1.591782
+Memory Usage: 830064432 bytes 
+PROC#1 started --------------------- iteration=206
+starting new iteration; iteration 207 time: 328.840234 time/itr::1.588600
+Memory Usage: 830064432 bytes 
+PROC#1 started --------------------- iteration=207
+starting new iteration; iteration 208 time: 329.772215 time/itr::1.585443
+Memory Usage: 830064432 bytes 
+PROC#1 started --------------------- iteration=208
+starting new iteration; iteration 209 time: 330.704417 time/itr::1.582318
+Memory Usage: 830064432 bytes 
+PROC#1 started --------------------- iteration=209
+starting new iteration; iteration 210 time: 331.638745 time/itr::1.579232
+Memory Usage: 830064432 bytes 
+PROC#1 started --------------------- iteration=210
+starting new iteration; iteration 211 time: 332.571036 time/itr::1.576166
+Memory Usage: 830064880 bytes 
+PROC#1 started --------------------- iteration=211
+starting new iteration; iteration 212 time: 333.503135 time/itr::1.573128
+Memory Usage: 830064880 bytes 
+PROC#1 started --------------------- iteration=212
+starting new iteration; iteration 213 time: 334.434611 time/itr::1.570116
+Memory Usage: 830064880 bytes 
+PROC#1 started --------------------- iteration=213
+starting new iteration; iteration 214 time: 335.369960 time/itr::1.567149
+Memory Usage: 830064880 bytes 
+PROC#1 started --------------------- iteration=214
+starting new iteration; iteration 215 time: 336.302152 time/itr::1.564196
+Memory Usage: 830064992 bytes 
+PROC#1 started --------------------- iteration=215
+starting new iteration; iteration 216 time: 337.234621 time/itr::1.561271
+Memory Usage: 830065104 bytes 
+PROC#1 started --------------------- iteration=216
+starting new iteration; iteration 217 time: 338.169614 time/itr::1.558385
+Memory Usage: 830065216 bytes 
+PROC#1 started --------------------- iteration=217
+starting new iteration; iteration 218 time: 339.104926 time/itr::1.555527
+Memory Usage: 830065328 bytes 
+PROC#1 started --------------------- iteration=218
+starting new iteration; iteration 219 time: 340.036756 time/itr::1.552679
+Memory Usage: 830065440 bytes 
+PROC#1 started --------------------- iteration=219
+starting new iteration; iteration 220 time: 340.970622 time/itr::1.549866
+Memory Usage: 830065552 bytes 
+PROC#1 started --------------------- iteration=220
+starting new iteration; iteration 221 time: 341.903648 time/itr::1.547075
+Memory Usage: 830065664 bytes 
+PROC#1 started --------------------- iteration=221
+starting new iteration; iteration 222 time: 342.835363 time/itr::1.544303
+Memory Usage: 830065776 bytes 
+PROC#1 started --------------------- iteration=222
+starting new iteration; iteration 223 time: 343.770343 time/itr::1.541571
+Memory Usage: 830065888 bytes 
+PROC#1 started --------------------- iteration=223
+starting new iteration; iteration 224 time: 344.703389 time/itr::1.538854
+Memory Usage: 830066000 bytes 
+PROC#1 started --------------------- iteration=224
+starting new iteration; iteration 225 time: 345.634115 time/itr::1.536152
+Memory Usage: 830066112 bytes 
+PROC#1 started --------------------- iteration=225
+starting new iteration; iteration 226 time: 346.567708 time/itr::1.533485
+Memory Usage: 830066224 bytes 
+PROC#1 started --------------------- iteration=226
+starting new iteration; iteration 227 time: 347.502525 time/itr::1.530848
+Memory Usage: 830066336 bytes 
+PROC#1 started --------------------- iteration=227
+starting new iteration; iteration 228 time: 348.434459 time/itr::1.528221
+Memory Usage: 830066448 bytes 
+PROC#1 started --------------------- iteration=228
+starting new iteration; iteration 229 time: 349.365833 time/itr::1.525615
+Memory Usage: 830066560 bytes 
+PROC#1 started --------------------- iteration=229
+starting new iteration; iteration 230 time: 350.297142 time/itr::1.523031
+Memory Usage: 830066672 bytes 
+PROC#1 started --------------------- iteration=230
+starting new iteration; iteration 231 time: 351.232629 time/itr::1.520488
+Memory Usage: 830066784 bytes 
+PROC#1 started --------------------- iteration=231
+starting new iteration; iteration 232 time: 352.164996 time/itr::1.517953
+Memory Usage: 830066896 bytes 
+PROC#1 started --------------------- iteration=232
+starting new iteration; iteration 233 time: 353.096945 time/itr::1.515438
+Memory Usage: 830067008 bytes 
+PROC#1 started --------------------- iteration=233
+starting new iteration; iteration 234 time: 354.029095 time/itr::1.512945
+Memory Usage: 830067120 bytes 
+PROC#1 started --------------------- iteration=234
+starting new iteration; iteration 235 time: 354.963510 time/itr::1.510483
+Memory Usage: 830067232 bytes 
+PROC#1 started --------------------- iteration=235
+starting new iteration; iteration 236 time: 355.897369 time/itr::1.508040
+Memory Usage: 830067344 bytes 
+PROC#1 started --------------------- iteration=236
+starting new iteration; iteration 237 time: 356.829193 time/itr::1.505608
+Memory Usage: 830067456 bytes 
+PROC#1 started --------------------- iteration=237
+starting new iteration; iteration 238 time: 357.760064 time/itr::1.503194
+Memory Usage: 830067568 bytes 
+PROC#1 started --------------------- iteration=238
+starting new iteration; iteration 239 time: 358.691970 time/itr::1.500803
+Memory Usage: 830067680 bytes 
+PROC#1 started --------------------- iteration=239
+starting new iteration; iteration 240 time: 359.626425 time/itr::1.498443
+Memory Usage: 830067792 bytes 
+PROC#1 started --------------------- iteration=240
+starting new iteration; iteration 241 time: 360.558103 time/itr::1.496092
+Memory Usage: 830067904 bytes 
+PROC#1 started --------------------- iteration=241
+starting new iteration; iteration 242 time: 361.491267 time/itr::1.493766
+Memory Usage: 830068016 bytes 
+PROC#1 started --------------------- iteration=242
+starting new iteration; iteration 243 time: 362.425607 time/itr::1.491463
+Memory Usage: 830068128 bytes 
+PROC#1 started --------------------- iteration=243
+starting new iteration; iteration 244 time: 363.360011 time/itr::1.489180
+Memory Usage: 830068240 bytes 
+PROC#1 started --------------------- iteration=244
+starting new iteration; iteration 245 time: 364.291150 time/itr::1.486903
+Memory Usage: 830068352 bytes 
+PROC#1 started --------------------- iteration=245
+starting new iteration; iteration 246 time: 365.223096 time/itr::1.484647
+Memory Usage: 830068464 bytes 
+PROC#1 started --------------------- iteration=246
+starting new iteration; iteration 247 time: 366.153878 time/itr::1.482404
+Memory Usage: 830068576 bytes 
+PROC#1 started --------------------- iteration=247
+starting new iteration; iteration 248 time: 367.088179 time/itr::1.480194
+Memory Usage: 830068688 bytes 
+PROC#1 started --------------------- iteration=248
+starting new iteration; iteration 249 time: 368.018333 time/itr::1.477985
+Memory Usage: 830068800 bytes 
+PROC#1 started --------------------- iteration=249
+starting new iteration; iteration 250 time: 368.949974 time/itr::1.475800
+Memory Usage: 830068912 bytes 
+PROC#1 Calling LBD --------------------- iteration=250
+PROC#3 started --------------------- iteration=250
+starting new iteration; iteration 251 time: 379.639721 time/itr::1.512509
+Memory Usage: 822900688 bytes 
+PROC#3 started --------------------- iteration=251
+starting new iteration; iteration 252 time: 380.641327 time/itr::1.510481
+Memory Usage: 826403728 bytes 
+PROC#3 started --------------------- iteration=252
+starting new iteration; iteration 253 time: 381.565046 time/itr::1.508162
+Memory Usage: 826403728 bytes 
+PROC#3 started --------------------- iteration=253
+starting new iteration; iteration 254 time: 382.484781 time/itr::1.505846
+Memory Usage: 826403728 bytes 
+PROC#3 started --------------------- iteration=254
+starting new iteration; iteration 255 time: 383.408999 time/itr::1.503565
+Memory Usage: 826403728 bytes 
+PROC#3 started --------------------- iteration=255
+starting new iteration; iteration 256 time: 384.331013 time/itr::1.501293
+Memory Usage: 826403728 bytes 
+PROC#3 started --------------------- iteration=256
+starting new iteration; iteration 257 time: 385.254478 time/itr::1.499045
+Memory Usage: 826404400 bytes 
+PROC#3 started --------------------- iteration=257
+starting new iteration; iteration 258 time: 386.178536 time/itr::1.496816
+Memory Usage: 826404400 bytes 
+PROC#3 started --------------------- iteration=258
+starting new iteration; iteration 259 time: 387.097326 time/itr::1.494584
+Memory Usage: 826404400 bytes 
+PROC#3 started --------------------- iteration=259
+starting new iteration; iteration 260 time: 388.020220 time/itr::1.492385
+Memory Usage: 826404400 bytes 
+PROC#3 started --------------------- iteration=260
+starting new iteration; iteration 261 time: 388.943440 time/itr::1.490205
+Memory Usage: 826404400 bytes 
+PROC#3 started --------------------- iteration=261
+starting new iteration; iteration 262 time: 389.862533 time/itr::1.488025
+Memory Usage: 826404400 bytes 
+PROC#3 started --------------------- iteration=262
+starting new iteration; iteration 263 time: 390.788107 time/itr::1.485886
+Memory Usage: 826405072 bytes 
+PROC#3 started --------------------- iteration=263
+starting new iteration; iteration 264 time: 391.710518 time/itr::1.483752
+Memory Usage: 826405072 bytes 
+PROC#3 started --------------------- iteration=264
+starting new iteration; iteration 265 time: 392.634820 time/itr::1.481641
+Memory Usage: 826405072 bytes 
+PROC#3 started --------------------- iteration=265
+starting new iteration; iteration 266 time: 393.558781 time/itr::1.479544
+Memory Usage: 826405072 bytes 
+PROC#3 started --------------------- iteration=266
+starting new iteration; iteration 267 time: 394.477565 time/itr::1.477444
+Memory Usage: 826405072 bytes 
+PROC#3 started --------------------- iteration=267
+starting new iteration; iteration 268 time: 395.401767 time/itr::1.475380
+Memory Usage: 826405072 bytes 
+PROC#3 started --------------------- iteration=268
+starting new iteration; iteration 269 time: 396.327164 time/itr::1.473335
+Memory Usage: 826405184 bytes 
+PROC#3 started --------------------- iteration=269
+starting new iteration; iteration 270 time: 397.246783 time/itr::1.471284
+Memory Usage: 826405296 bytes 
+PROC#3 started --------------------- iteration=270
+starting new iteration; iteration 271 time: 398.170466 time/itr::1.469264
+Memory Usage: 826405408 bytes 
+PROC#3 started --------------------- iteration=271
+starting new iteration; iteration 272 time: 399.088454 time/itr::1.467237
+Memory Usage: 826405520 bytes 
+PROC#3 started --------------------- iteration=272
+starting new iteration; iteration 273 time: 400.011896 time/itr::1.465245
+Memory Usage: 826405632 bytes 
+PROC#3 started --------------------- iteration=273
+starting new iteration; iteration 274 time: 400.936345 time/itr::1.463271
+Memory Usage: 826405744 bytes 
+PROC#3 started --------------------- iteration=274
+starting new iteration; iteration 275 time: 401.856201 time/itr::1.461295
+Memory Usage: 826405856 bytes 
+PROC#3 started --------------------- iteration=275
+starting new iteration; iteration 276 time: 402.782959 time/itr::1.459359
+Memory Usage: 826405968 bytes 
+PROC#3 started --------------------- iteration=276
+starting new iteration; iteration 277 time: 403.707357 time/itr::1.457427
+Memory Usage: 826406080 bytes 
+PROC#3 started --------------------- iteration=277
+starting new iteration; iteration 278 time: 404.626902 time/itr::1.455492
+Memory Usage: 826406192 bytes 
+PROC#3 started --------------------- iteration=278
+starting new iteration; iteration 279 time: 405.551207 time/itr::1.453589
+Memory Usage: 826406304 bytes 
+PROC#3 started --------------------- iteration=279
+starting new iteration; iteration 280 time: 406.471581 time/itr::1.451684
+Memory Usage: 826406416 bytes 
+PROC#3 started --------------------- iteration=280
+starting new iteration; iteration 281 time: 407.396475 time/itr::1.449810
+Memory Usage: 826406528 bytes 
+PROC#3 started --------------------- iteration=281
+starting new iteration; iteration 282 time: 408.321153 time/itr::1.447947
+Memory Usage: 826406640 bytes 
+PROC#3 started --------------------- iteration=282
+starting new iteration; iteration 283 time: 409.242822 time/itr::1.446088
+Memory Usage: 826406752 bytes 
+PROC#3 started --------------------- iteration=283
+starting new iteration; iteration 284 time: 410.168076 time/itr::1.444254
+Memory Usage: 826406864 bytes 
+PROC#3 started --------------------- iteration=284
+starting new iteration; iteration 285 time: 411.091718 time/itr::1.442427
+Memory Usage: 826406976 bytes 
+PROC#3 started --------------------- iteration=285
+starting new iteration; iteration 286 time: 412.011772 time/itr::1.440601
+Memory Usage: 826407088 bytes 
+PROC#3 started --------------------- iteration=286
+starting new iteration; iteration 287 time: 412.938310 time/itr::1.438809
+Memory Usage: 826407200 bytes 
+PROC#3 started --------------------- iteration=287
+starting new iteration; iteration 288 time: 413.863188 time/itr::1.437025
+Memory Usage: 826407312 bytes 
+PROC#3 started --------------------- iteration=288
+starting new iteration; iteration 289 time: 414.783555 time/itr::1.435237
+Memory Usage: 826407424 bytes 
+PROC#3 started --------------------- iteration=289
+starting new iteration; iteration 290 time: 415.710476 time/itr::1.433484
+Memory Usage: 826407536 bytes 
+PROC#3 started --------------------- iteration=290
+starting new iteration; iteration 291 time: 416.630495 time/itr::1.431720
+Memory Usage: 826407648 bytes 
+PROC#3 started --------------------- iteration=291
+starting new iteration; iteration 292 time: 417.555052 time/itr::1.429983
+Memory Usage: 826407760 bytes 
+PROC#3 started --------------------- iteration=292
+starting new iteration; iteration 293 time: 418.480729 time/itr::1.428262
+Memory Usage: 826407872 bytes 
+PROC#3 started --------------------- iteration=293
+starting new iteration; iteration 294 time: 419.400663 time/itr::1.426533
+Memory Usage: 826407984 bytes 
+PROC#3 started --------------------- iteration=294
+starting new iteration; iteration 295 time: 420.326115 time/itr::1.424834
+Memory Usage: 826408096 bytes 
+PROC#3 started --------------------- iteration=295
+starting new iteration; iteration 296 time: 421.253018 time/itr::1.423152
+Memory Usage: 826408208 bytes 
+PROC#3 started --------------------- iteration=296
+starting new iteration; iteration 297 time: 422.174207 time/itr::1.421462
+Memory Usage: 826408320 bytes 
+PROC#3 started --------------------- iteration=297
+starting new iteration; iteration 298 time: 423.098119 time/itr::1.419792
+Memory Usage: 826408432 bytes 
+PROC#3 started --------------------- iteration=298
+starting new iteration; iteration 299 time: 424.019002 time/itr::1.418124
+Memory Usage: 826408544 bytes 
+PROC#3 started --------------------- iteration=299
+starting new iteration; iteration 300 time: 424.943286 time/itr::1.416478
+Memory Usage: 826408656 bytes 
+PROC#3 Calling LBD --------------------- iteration=300
+PROC#1 started --------------------- iteration=300
+starting new iteration; iteration 301 time: 435.501753 time/itr::1.446850
+Memory Usage: 826278048 bytes 
+PROC#1 started --------------------- iteration=301
+starting new iteration; iteration 302 time: 436.498643 time/itr::1.445360
+Memory Usage: 829781040 bytes 
+PROC#1 started --------------------- iteration=302
+starting new iteration; iteration 303 time: 437.421425 time/itr::1.443635
+Memory Usage: 829781152 bytes 
+PROC#1 started --------------------- iteration=303
+starting new iteration; iteration 304 time: 438.341955 time/itr::1.441914
+Memory Usage: 829781264 bytes 
+PROC#1 started --------------------- iteration=304
+starting new iteration; iteration 305 time: 439.262911 time/itr::1.440206
+Memory Usage: 829781376 bytes 
+PROC#1 started --------------------- iteration=305
+starting new iteration; iteration 306 time: 440.187874 time/itr::1.438522
+Memory Usage: 829781488 bytes 
+PROC#1 started --------------------- iteration=306
+starting new iteration; iteration 307 time: 441.108564 time/itr::1.436836
+Memory Usage: 829781600 bytes 
+PROC#1 started --------------------- iteration=307
+starting new iteration; iteration 308 time: 442.034779 time/itr::1.435178
+Memory Usage: 829781712 bytes 
+PROC#1 started --------------------- iteration=308
+starting new iteration; iteration 309 time: 442.957928 time/itr::1.433521
+Memory Usage: 829781824 bytes 
+PROC#1 started --------------------- iteration=309
+starting new iteration; iteration 310 time: 443.887348 time/itr::1.431895
+Memory Usage: 829781936 bytes 
+PROC#1 started --------------------- iteration=310
+starting new iteration; iteration 311 time: 444.815811 time/itr::1.430276
+Memory Usage: 829777008 bytes 
+PROC#1 started --------------------- iteration=311
+starting new iteration; iteration 312 time: 445.738898 time/itr::1.428650
+Memory Usage: 829777008 bytes 
+PROC#1 started --------------------- iteration=312
+starting new iteration; iteration 313 time: 446.666073 time/itr::1.427048
+Memory Usage: 829777008 bytes 
+PROC#1 started --------------------- iteration=313
+starting new iteration; iteration 314 time: 447.594492 time/itr::1.425460
+Memory Usage: 829777008 bytes 
+PROC#1 started --------------------- iteration=314
+starting new iteration; iteration 315 time: 448.518745 time/itr::1.423869
+Memory Usage: 829777008 bytes 
+PROC#1 started --------------------- iteration=315
+starting new iteration; iteration 316 time: 449.447735 time/itr::1.422303
+Memory Usage: 829777008 bytes 
+PROC#1 started --------------------- iteration=316
+starting new iteration; iteration 317 time: 450.371875 time/itr::1.420731
+Memory Usage: 829777680 bytes 
+PROC#1 started --------------------- iteration=317
+starting new iteration; iteration 318 time: 451.298724 time/itr::1.419178
+Memory Usage: 829777680 bytes 
+PROC#1 started --------------------- iteration=318
+starting new iteration; iteration 319 time: 452.225887 time/itr::1.417636
+Memory Usage: 829777680 bytes 
+PROC#1 started --------------------- iteration=319
+starting new iteration; iteration 320 time: 453.151036 time/itr::1.416097
+Memory Usage: 829777680 bytes 
+PROC#1 started --------------------- iteration=320
+starting new iteration; iteration 321 time: 454.079696 time/itr::1.414578
+Memory Usage: 829777680 bytes 
+PROC#1 started --------------------- iteration=321
+starting new iteration; iteration 322 time: 455.009362 time/itr::1.413073
+Memory Usage: 829777680 bytes 
+PROC#1 started --------------------- iteration=322
+starting new iteration; iteration 323 time: 455.935302 time/itr::1.411564
+Memory Usage: 829778352 bytes 
+PROC#1 started --------------------- iteration=323
+starting new iteration; iteration 324 time: 456.864327 time/itr::1.410075
+Memory Usage: 829778352 bytes 
+PROC#1 started --------------------- iteration=324
+starting new iteration; iteration 325 time: 457.788531 time/itr::1.408580
+Memory Usage: 829778352 bytes 
+PROC#1 started --------------------- iteration=325
+starting new iteration; iteration 326 time: 458.717584 time/itr::1.407109
+Memory Usage: 829778352 bytes 
+PROC#1 started --------------------- iteration=326
+starting new iteration; iteration 327 time: 459.646675 time/itr::1.405647
+Memory Usage: 829778352 bytes 
+PROC#1 started --------------------- iteration=327
+starting new iteration; iteration 328 time: 460.571429 time/itr::1.404181
+Memory Usage: 829778352 bytes 
+PROC#1 started --------------------- iteration=328
+starting new iteration; iteration 329 time: 461.501151 time/itr::1.402739
+Memory Usage: 829778464 bytes 
+PROC#1 started --------------------- iteration=329
+starting new iteration; iteration 330 time: 462.429148 time/itr::1.401300
+Memory Usage: 829778688 bytes 
+PROC#1 started --------------------- iteration=330
+starting new iteration; iteration 331 time: 463.351943 time/itr::1.399855
+Memory Usage: 829778688 bytes 
+PROC#1 started --------------------- iteration=331
+starting new iteration; iteration 332 time: 464.280417 time/itr::1.398435
+Memory Usage: 829778800 bytes 
+PROC#1 started --------------------- iteration=332
+starting new iteration; iteration 333 time: 465.204267 time/itr::1.397010
+Memory Usage: 829778912 bytes 
+PROC#1 started --------------------- iteration=333
+starting new iteration; iteration 334 time: 466.134230 time/itr::1.395611
+Memory Usage: 829779024 bytes 
+PROC#1 started --------------------- iteration=334
+starting new iteration; iteration 335 time: 467.063407 time/itr::1.394219
+Memory Usage: 829779136 bytes 
+PROC#1 started --------------------- iteration=335
+starting new iteration; iteration 336 time: 467.988142 time/itr::1.392822
+Memory Usage: 829779248 bytes 
+PROC#1 started --------------------- iteration=336
+starting new iteration; iteration 337 time: 468.915224 time/itr::1.391440
+Memory Usage: 829779360 bytes 
+PROC#1 started --------------------- iteration=337
+starting new iteration; iteration 338 time: 469.843953 time/itr::1.390071
+Memory Usage: 829779472 bytes 
+PROC#1 started --------------------- iteration=338
+starting new iteration; iteration 339 time: 470.766753 time/itr::1.388692
+Memory Usage: 829779584 bytes 
+PROC#1 started --------------------- iteration=339
+starting new iteration; iteration 340 time: 471.694928 time/itr::1.387338
+Memory Usage: 829779696 bytes 
+PROC#1 started --------------------- iteration=340
+starting new iteration; iteration 341 time: 472.624187 time/itr::1.385995
+Memory Usage: 829779808 bytes 
+PROC#1 started --------------------- iteration=341
+starting new iteration; iteration 342 time: 473.548759 time/itr::1.384645
+Memory Usage: 829779920 bytes 
+PROC#1 started --------------------- iteration=342
+starting new iteration; iteration 343 time: 474.477614 time/itr::1.383317
+Memory Usage: 829780032 bytes 
+PROC#1 started --------------------- iteration=343
+starting new iteration; iteration 344 time: 475.401756 time/itr::1.381982
+Memory Usage: 829780144 bytes 
+PROC#1 started --------------------- iteration=344
+starting new iteration; iteration 345 time: 476.329210 time/itr::1.380664
+Memory Usage: 829780256 bytes 
+PROC#1 started --------------------- iteration=345
+starting new iteration; iteration 346 time: 477.256962 time/itr::1.379355
+Memory Usage: 829780368 bytes 
+PROC#1 started --------------------- iteration=346
+starting new iteration; iteration 347 time: 478.180732 time/itr::1.378042
+Memory Usage: 829780480 bytes 
+PROC#1 started --------------------- iteration=347
+starting new iteration; iteration 348 time: 479.101542 time/itr::1.376729
+Memory Usage: 829780592 bytes 
+PROC#1 started --------------------- iteration=348
+starting new iteration; iteration 349 time: 480.025073 time/itr::1.375430
+Memory Usage: 829780704 bytes 
+PROC#1 started --------------------- iteration=349
+starting new iteration; iteration 350 time: 480.945918 time/itr::1.374131
+Memory Usage: 829780816 bytes 
+PROC#1 Calling LBD --------------------- iteration=350
+PROC#3 started --------------------- iteration=350
+starting new iteration; iteration 351 time: 491.681027 time/itr::1.400801
+Memory Usage: 825289936 bytes 
+PROC#3 started --------------------- iteration=351
+starting new iteration; iteration 352 time: 492.679322 time/itr::1.399657
+Memory Usage: 828794272 bytes 
+PROC#3 started --------------------- iteration=352
+starting new iteration; iteration 353 time: 493.597362 time/itr::1.398293
+Memory Usage: 828794384 bytes 
+PROC#3 started --------------------- iteration=353
+starting new iteration; iteration 354 time: 494.514266 time/itr::1.396933
+Memory Usage: 828794496 bytes 
+PROC#3 started --------------------- iteration=354
+starting new iteration; iteration 355 time: 495.430855 time/itr::1.395580
+Memory Usage: 828794608 bytes 
+PROC#3 started --------------------- iteration=355
+starting new iteration; iteration 356 time: 496.351852 time/itr::1.394247
+Memory Usage: 828794720 bytes 
+PROC#3 started --------------------- iteration=356
+starting new iteration; iteration 357 time: 497.268658 time/itr::1.392909
+Memory Usage: 828794832 bytes 
+PROC#3 started --------------------- iteration=357
+starting new iteration; iteration 358 time: 498.186806 time/itr::1.391583
+Memory Usage: 828794944 bytes 
+PROC#3 started --------------------- iteration=358
+starting new iteration; iteration 359 time: 499.103667 time/itr::1.390261
+Memory Usage: 828795056 bytes 
+PROC#3 started --------------------- iteration=359
+starting new iteration; iteration 360 time: 500.024060 time/itr::1.388956
+Memory Usage: 828795168 bytes 
+PROC#3 started --------------------- iteration=360
+starting new iteration; iteration 361 time: 500.940903 time/itr::1.387648
+Memory Usage: 828795280 bytes 
+PROC#3 started --------------------- iteration=361
+starting new iteration; iteration 362 time: 501.857463 time/itr::1.386347
+Memory Usage: 828795392 bytes 
+PROC#3 started --------------------- iteration=362
+starting new iteration; iteration 363 time: 502.773305 time/itr::1.385050
+Memory Usage: 828795504 bytes 
+PROC#3 started --------------------- iteration=363
+starting new iteration; iteration 364 time: 503.690417 time/itr::1.383765
+Memory Usage: 828795616 bytes 
+PROC#3 started --------------------- iteration=364
+starting new iteration; iteration 365 time: 504.609044 time/itr::1.382491
+Memory Usage: 828795728 bytes 
+PROC#3 started --------------------- iteration=365
+starting new iteration; iteration 366 time: 505.527169 time/itr::1.381222
+Memory Usage: 828795840 bytes 
+PROC#3 started --------------------- iteration=366
+starting new iteration; iteration 367 time: 506.444602 time/itr::1.379958
+Memory Usage: 828795952 bytes 
+PROC#3 started --------------------- iteration=367
+starting new iteration; iteration 368 time: 507.361201 time/itr::1.378699
+Memory Usage: 828796064 bytes 
+PROC#3 started --------------------- iteration=368
+starting new iteration; iteration 369 time: 508.281284 time/itr::1.377456
+Memory Usage: 828796176 bytes 
+PROC#3 started --------------------- iteration=369
+starting new iteration; iteration 370 time: 509.198236 time/itr::1.376211
+Memory Usage: 828796288 bytes 
+PROC#3 started --------------------- iteration=370
+starting new iteration; iteration 371 time: 510.114890 time/itr::1.374973
+Memory Usage: 828796400 bytes 
+PROC#3 started --------------------- iteration=371
+starting new iteration; iteration 372 time: 511.032012 time/itr::1.373742
+Memory Usage: 828790352 bytes 
+PROC#3 started --------------------- iteration=372
+starting new iteration; iteration 373 time: 511.952095 time/itr::1.372526
+Memory Usage: 828790352 bytes 
+PROC#3 started --------------------- iteration=373
+starting new iteration; iteration 374 time: 512.868930 time/itr::1.371307
+Memory Usage: 828790352 bytes 
+PROC#3 started --------------------- iteration=374
+starting new iteration; iteration 375 time: 513.786170 time/itr::1.370096
+Memory Usage: 828790352 bytes 
+PROC#3 started --------------------- iteration=375
+starting new iteration; iteration 376 time: 514.703383 time/itr::1.368892
+Memory Usage: 828790352 bytes 
+PROC#3 started --------------------- iteration=376
+starting new iteration; iteration 377 time: 515.620043 time/itr::1.367692
+Memory Usage: 828790352 bytes 
+PROC#3 started --------------------- iteration=377
+starting new iteration; iteration 378 time: 516.540043 time/itr::1.366508
+Memory Usage: 828791024 bytes 
+PROC#3 started --------------------- iteration=378
+starting new iteration; iteration 379 time: 517.457001 time/itr::1.365322
+Memory Usage: 828791024 bytes 
+PROC#3 started --------------------- iteration=379
+starting new iteration; iteration 380 time: 518.374724 time/itr::1.364144
+Memory Usage: 828791024 bytes 
+PROC#3 started --------------------- iteration=380
+starting new iteration; iteration 381 time: 519.291949 time/itr::1.362971
+Memory Usage: 828791024 bytes 
+PROC#3 started --------------------- iteration=381
+starting new iteration; iteration 382 time: 520.212253 time/itr::1.361812
+Memory Usage: 828791024 bytes 
+PROC#3 started --------------------- iteration=382
+starting new iteration; iteration 383 time: 521.128361 time/itr::1.360648
+Memory Usage: 828791024 bytes 
+PROC#3 started --------------------- iteration=383
+starting new iteration; iteration 384 time: 522.044532 time/itr::1.359491
+Memory Usage: 828791696 bytes 
+PROC#3 started --------------------- iteration=384
+starting new iteration; iteration 385 time: 522.961227 time/itr::1.358341
+Memory Usage: 828791696 bytes 
+PROC#3 started --------------------- iteration=385
+starting new iteration; iteration 386 time: 523.881863 time/itr::1.357207
+Memory Usage: 828791696 bytes 
+PROC#3 started --------------------- iteration=386
+starting new iteration; iteration 387 time: 524.798155 time/itr::1.356068
+Memory Usage: 828791696 bytes 
+PROC#3 started --------------------- iteration=387
+starting new iteration; iteration 388 time: 525.715670 time/itr::1.354937
+Memory Usage: 828791696 bytes 
+PROC#3 started --------------------- iteration=388
+starting new iteration; iteration 389 time: 526.631868 time/itr::1.353809
+Memory Usage: 828791696 bytes 
+PROC#3 started --------------------- iteration=389
+starting new iteration; iteration 390 time: 527.548393 time/itr::1.352688
+Memory Usage: 828792368 bytes 
+PROC#3 started --------------------- iteration=390
+starting new iteration; iteration 391 time: 528.468468 time/itr::1.351582
+Memory Usage: 828792368 bytes 
+PROC#3 started --------------------- iteration=391
+starting new iteration; iteration 392 time: 529.384558 time/itr::1.350471
+Memory Usage: 828792368 bytes 
+PROC#3 started --------------------- iteration=392
+starting new iteration; iteration 393 time: 530.301331 time/itr::1.349367
+Memory Usage: 828792368 bytes 
+PROC#3 started --------------------- iteration=393
+starting new iteration; iteration 394 time: 531.219130 time/itr::1.348272
+Memory Usage: 828792368 bytes 
+PROC#3 started --------------------- iteration=394
+starting new iteration; iteration 395 time: 532.139486 time/itr::1.347189
+Memory Usage: 828792368 bytes 
+PROC#3 started --------------------- iteration=395
+starting new iteration; iteration 396 time: 533.056506 time/itr::1.346102
+Memory Usage: 828793040 bytes 
+PROC#3 started --------------------- iteration=396
+starting new iteration; iteration 397 time: 533.972274 time/itr::1.345018
+Memory Usage: 828793040 bytes 
+PROC#3 started --------------------- iteration=397
+starting new iteration; iteration 398 time: 534.889410 time/itr::1.343943
+Memory Usage: 828793040 bytes 
+PROC#3 started --------------------- iteration=398
+starting new iteration; iteration 399 time: 535.808149 time/itr::1.342878
+Memory Usage: 828793040 bytes 
+PROC#3 started --------------------- iteration=399
+Program Done! avg_it:1.341822
