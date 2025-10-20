@@ -28,6 +28,7 @@ static void handler(char *bit_map)
     shrinkExpandreplyToken = CcsDelayReply();
     bit_map += CmiMsgHeaderSizeBytes;
     pending_realloc_state = REALLOC_MSG_RECEIVED;
+    printf("CMK_SHRINK_EXPAND: REALLOC_MSG_RECEIVED\n");
 
     if((CkMyPe() == 0) && (load_balancer_created))
     LBManagerObj()->set_avail_vector(bit_map);
@@ -45,6 +46,7 @@ void manager_init(){
     willContinue = 0;
     if (inited) return;
     CcsRegisterHandler("set_bitmap", (CmiHandler) handler);
+    printf("CMK_SHRINK_EXPAND: CcsRegisterHandler set_bitmap\n");
     inited = 1;
     pending_realloc_state = NO_REALLOC;
 #endif
