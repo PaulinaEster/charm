@@ -1,3 +1,9 @@
+Resultado da execução de um host para dois nodes com o parametro +p4, comando completo abaixo:
+    ./charmrun +p4 ./jacobi2d 1000 100 +balancer GreedyLB ++nodelist ./mynodelistfile ++server
+mynodelistfile: 
+    host node-1
+    host node-2
+    
 Charmrun> scalable start enabled. 
 ccs: 2
 ccs: Server IP = 128.110.96.58, Server port = 41939 $

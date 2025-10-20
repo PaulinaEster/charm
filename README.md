@@ -389,5 +389,8 @@ Mathew Jacob, Tom Vander Aa, Thomas Quinn, and Ritvik Rao.
 
 Copyright (C) 1989-2024 University of Illinois Board of Trustees
 
+Executando jacobi2d para teste com maleabilidade no cloud lab utilizando o hardware c6220 com três nodes de 8 cores cada
+./charmrun +p4 ./jacobi2d 20000 200 +balancer GreedyLB ++nodelist ./mynodelistfile ++server ++server-port 36539
 
-./charmrun +p4 ./jacobi2d 200 20 +balancer GreedyLB ++nodelist ./mynodelistfile ++server 
+executado o comando abaixo na iteração 10 do comando acima:
+./client node-1 36539 4 8
