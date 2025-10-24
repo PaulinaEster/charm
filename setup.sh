@@ -14,9 +14,9 @@ echo "Instalando automake"
 sudo apt-get install autoconf automake -y
 echo "Clonando repositorio CHARM"
 git clone https://github.com/charmplusplus/charm
-git checkout shrinkexpand-fix
 # Entra na pasta do repositório
 cd /users/paulina/charm
+git checkout shrinkexpand-fix
 
 echo "Iniciando build do charm"
 # build charm++ com maleabilidade
