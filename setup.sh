@@ -13,10 +13,10 @@ sudo apt install build-essential -y
 echo "Instalando automake"
 sudo apt-get install autoconf automake -y
 echo "Clonando repositorio CHARM"
-git clone https://github.com/PaulinaEster/charm.git
-
+git clone https://github.com/charmplusplus/charm
+git checkout shrinkexpand-fix
 # Entra na pasta do repositório
-cd /users/paulina/charm 
+cd /users/paulina/charm
 
 echo "Iniciando build do charm"
 # build charm++ com maleabilidade

@@ -25,6 +25,7 @@ for i in range(node_count):
     node = request.RawPC("node-" + str(i))
     node.hardware_type = hardware_type
     node.installRootKeys(True, True)
+    node.addService(rspec.Execute(shell="bash", command="cd /users/paulina && git clone https://github.com/PaulinaEster/charm"))
     node.addService(rspec.Execute(shell="bash", command="cd /users/paulina/charm && chmod +x ./setup.sh"))
     node.addService(rspec.Execute(shell="bash", command="cd /users/paulina/charm && ./setup.sh"))
     iface = node.addInterface("interface-" + str(i))
