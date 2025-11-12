@@ -4,6 +4,7 @@ set -e
 # Atualiza pacotes e instala git
 sudo apt-get update -y
 sudo apt-get install -y git
+sudo apt-get install -y htop
 
 # Clona o repositório
 cd /users/paulina
